@@ -1,2 +1,5 @@
 Q1: what is the fuction of the command git remote? 
+
+test test test
+
 git remote command allows you to see, create, and delete branches in the repo
